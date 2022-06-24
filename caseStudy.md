@@ -7,6 +7,18 @@ Durante los últimos años (pre-Covid) y podemos seguir viéndolo ahora (post-Co
 
 
 ## **1. Investigación**
+### **Competitive analysis**
+| Características | GuruWalk | CityMe
+|---|---|---|
+|Precio | 0 - 50€ | 0 - 5€ por ciudad |
+|Software | WebApp | App + landing page |
+|Ciudades disponibles | Ciudades en todos los continentes | 5 ciudades |
+| Idiomas disponibles (tanto app como tours) | Español, inglés, francés, italiano | Español, inglés, francés |
+Disponibilidad de guías | Necesaria reserva | Siempre disponible |
+Flexibilidad | Depende del guía | Flexibilidad total |
+
+Podemos comprobar que GuruWalk y CityMe buscan el mismo objetivo en el cliente (enseñar la ciudad), pero ofreciendo propuestas totalmente distintas. GuruWalk es una propuesta más cercana con el usuario donde el guía nos va explicando la historia de los lugares permitiendo preguntas mientras que CityMe da un trato un poco más libre, para cuando nos interesa conocer acerca de ciertos lugares exclusivamente, sin tener que depender de un guía.
+
 ### **Diseño de persona ficticia**
 Esta novedosa propuesta de free tour permite que tengamos diferentes tipos de personas objetivo ya que cualquiera con un teléfono móvil puede utilizarla. Sin embargo, puede que no sea tan común que este tipo de aplicaciones esté dirigida a personas ancianas, sino más bien a jóvenes que puede que no quieran seguir una ruta con un guía e ir más por su cuenta. Es por ello que se decidió crear a una persona ficticia que entre dentro de este papel. Así creamos a Daniel Olmo González, estudiante madrileño actualmente de Erasmus en Birmingham, UK que decide ir a Londres a visitar la ciudad en su semana de vacaciones. A Daniel le encanta viajar y conocer acerca de los distintos monumentos de las ciudades ya que es un apasionado de la historia. Su condición de Erasmus no le permite gastarse mucho dinero ya que la vida en Reino Unido es bastante cara y no quiere ser un problema económico para sus padres. 
 
@@ -19,7 +31,7 @@ Se evaluará el escenario en el que Daniel descubre CityMe y lo utiliza por prim
 
 
 ### **Revisión de usabilidad**
-Ver [aqui](assets/Usability-review-template.xlsx) el informe completo.
+Ver [aqui](https://github.com/albertollamass/DIU_ExamenFinal/blob/main/assets/Usability-review-template.xlsx) el informe completo.
 
 Tras hacer la revisión de usabilidad, la app y landing page obtienen una nota de 82 sobre 100. Esto significa que la usabilidad de la misma es buena: los usuarios pueden utilizar el sitio web y completar la mayoría de tareas sin nningúnn problema. Sin embargo, se puede trabajar mucho en que esta experiencia sea más positiva para los mismos. Cabe hacer mención a los resultados alojados en algunas secciones:
 
